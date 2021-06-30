@@ -4,7 +4,7 @@ EggTimer is a timer app.In this,you can start,stop and choose different interval
 
 Upon finish the Timer will ring, as user notification.
 
-#Technology Used
+# Technology Used
 **IDE:** Android Studio
 **Language:**JAVA
 
