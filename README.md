@@ -1,6 +1,6 @@
 # EggTimerApp
 
-EggTimer is a timer app.In this,you can start,stop and choose different intervals between 0 to 15 minutes maximum.
+EggTimer is a timer app.In this,you can start,stop and choose different intervals between 0 to 15 minutes maximum using seekbar.
 
 Upon finish the Timer will ring, as user notification.
 
