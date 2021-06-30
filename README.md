@@ -6,6 +6,7 @@ Upon finish the Timer will ring, as user notification.
 
 # Technology Used
 **IDE:** Android Studio
-**Language:**JAVA
+
+**Language:** JAVA
 
    
